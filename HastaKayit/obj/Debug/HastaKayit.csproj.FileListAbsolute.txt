@@ -1,0 +1,11 @@
+C:\Users\ataka\source\repos\HastaKayit\HastaKayit\bin\Debug\HastaKayit.exe.config
+C:\Users\ataka\source\repos\HastaKayit\HastaKayit\bin\Debug\HastaKayit.exe
+C:\Users\ataka\source\repos\HastaKayit\HastaKayit\bin\Debug\HastaKayit.pdb
+C:\Users\ataka\source\repos\HastaKayit\HastaKayit\obj\Debug\HastaKayit.csproj.AssemblyReference.cache
+C:\Users\ataka\source\repos\HastaKayit\HastaKayit\obj\Debug\HastaKayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\ataka\source\repos\HastaKayit\HastaKayit\obj\Debug\HastaKayit.Form1.resources
+C:\Users\ataka\source\repos\HastaKayit\HastaKayit\obj\Debug\HastaKayit.Properties.Resources.resources
+C:\Users\ataka\source\repos\HastaKayit\HastaKayit\obj\Debug\HastaKayit.csproj.GenerateResource.cache
+C:\Users\ataka\source\repos\HastaKayit\HastaKayit\obj\Debug\HastaKayit.csproj.CoreCompileInputs.cache
+C:\Users\ataka\source\repos\HastaKayit\HastaKayit\obj\Debug\HastaKayit.exe
+C:\Users\ataka\source\repos\HastaKayit\HastaKayit\obj\Debug\HastaKayit.pdb
